@@ -1,4 +1,6 @@
 #include <Conceptinetics.h>
+#include <Rdm_Defines.h>
+#include <Rdm_Uid.h>
 
 #define DMX_SLAVE_CHANNELS 2
 #define RXEN_PIN 2
